@@ -4,6 +4,8 @@
     box-sizing: border-box;
  }
 
+
+ /*Attributi box header */
 header {
 background-image: url('../img/pattern.png') ;
 background-size: 500px;
@@ -17,3 +19,34 @@ background-color: #639EF8;
     margin-bottom: 0px;
     width: 200px;
 }
+
+/*Attributi box (titolo-sotto titolo- immagini) */
+#box-title {
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 800px;
+}
+
+/*Attributi testo sotto al titolo*/
+#under-title{
+    font-weight: bold;
+    color: grey;
+}
+#the-booleaner{
+    color:#4BA1DD;
+}
+#data-10-10{
+    font-size: 12px;
+    color: gray;
+}
+
+
+/*Attributi prime due foto*/
+#img-tim {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.text-under-tim {
+    font-size: 12px;
+}
+

@@ -8,14 +8,15 @@
  /*Attributi box header */
 header {
 background-image: url('../img/pattern.png') ;
-background-size: 500px;
+height: 90px;
+background-size: 30%;
 padding: 20px;
 background-color: #639EF8;
 
  }
 
-#booleaner-text {
-    margin-top: 30px;
+#booleaner-logo {
+    margin-top: 10px;
     margin-bottom: 0px;
     width: 200px;
 }
@@ -50,3 +51,61 @@ background-color: #639EF8;
     font-size: 12px;
 }
 
+
+/*Attributi div Lorem*/
+.text-lorem {
+    width: 1100px;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+
+
+/*Attributi Lista*/
+.central-divider {
+    margin-left: 10px;
+}
+
+.central-text{ 
+    margin-top: 25px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+
+
+/*Attributi tabella*/
+th {
+    text-align: left;
+  }
+
+td {
+    padding: 10px;
+
+  }
+
+  
+thead {
+    background-color: #28A9E5;
+    color: white;
+
+  }
+
+
+.dispari {
+    background-color: #98d9ed;
+  }
+
+table {
+    border: none;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+  }
+
+.text {
+    width: 50%;
+}
